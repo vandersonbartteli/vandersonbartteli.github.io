@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="301.18109"
+   height="194.88188"
+   id="svg4227"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="vanderson-bartelli-card-back-br.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="197.11419"
+     inkscape:cy="70.37146"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1364"
+     inkscape:window-height="730"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     borderlayer="true" />
+  <defs
+     id="defs4229">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4471">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4473" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4475" />
+    </linearGradient>
+    <clipPath
+       id="clipPath">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 92.428957,29.138233 81.317283,0"
+         id="path3035"
+         inkscape:connector-curvature="0"
+         transform="translate(0,861.09315)" />
+    </clipPath>
+    <filter
+       id="filter"
+       height="2"
+       width="2"
+       x="-0.5"
+       y="-0.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="5.0"
+         id="feGaussianBlur3178" />
+    </filter>
+    <clipPath
+       id="clipPatho">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.923881,39.239758 81.822359,0"
+         id="path3037"
+         inkscape:connector-curvature="0"
+         transform="translate(0,861.09315)" />
+    </clipPath>
+    <filter
+       id="filterZ"
+       height="2"
+       width="2"
+       x="-0.5"
+       y="-0.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="5.0"
+         id="feGaussianBlur3183" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4471"
+       id="radialGradient4479"
+       cx="13.9"
+       cy="14.0125"
+       fx="13.9"
+       fy="14.0125"
+       r="11.3"
+       gradientTransform="matrix(1,0,0,0.88606195,0,1.596557)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata4232">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="background-v1">
+    <g
+       id="g3520-6-1"
+       transform="matrix(2.2100921,0,0,2.2100921,-171.98224,-56.028858)"
+       style="fill:#f9f9f9;display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 124.90791,42.933044 103.82994,127.5884 M 142.40038,26.070509 124.81718,43.080941 79.875789,31.076752 M 97.201226,13.758185 120.20582,110.96063 M 97.071252,13.607156 142.89293,25.749904 120.2112,111.20741 103.48628,128.16115 79.429885,31.133967 z"
+         style="fill:#f9f9f9;stroke:#ffffff;stroke-width:1.29603338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4310-9-2-8" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 169.07655,103.89907 -16.36627,4.11032 m -0.37367,-42.597193 40.20573,-10.910845 m 3.88623,-0.873517 0,20.503233 m -4.01609,-20.080486 0,20.925973 m -0.42276,-44.38843 -23.02879,6.170552 M 152.29829,64.93922 168.87533,81.815188 212.40467,70.15154 m -16.18747,27.01923 16.40786,17.83458 m -43.54333,-11.05092 -0.10571,21.64587 m -17.312,-106.148172 17.30041,17.300416 0.1057,67.182176 27.4069,-7.160599 -0.0396,-22.357736 -4.09159,1.113364 -18.21713,-16.194832 0,-45.762365 m 0.0296,-0.248433 -22.30025,6.279637 0.52312,88.223644 17.05579,18.55023 43.12441,-11.55498 0,-45.004025 -16.42801,-16.428014 -3.79698,1.017392 0,-23.270736 z m -5.20724,23.05968 0,45.464259 m 0,-0.66858 0,44.559522 m 27.54598,-72.239233 0,44.127051"
+         style="fill:#f9f9f9;stroke:#ffffff;stroke-width:1.19570911;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4366-1-6-7" />
+    </g>
+  </g>
+  <g
+     inkscape:label="v1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-857.47899)"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="32.640556"
+       y="886.32056"
+       id="text3064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3066"
+         x="32.640556"
+         y="886.32056"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">+55 27 99863-1675‬</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="33.129326"
+       y="910.51227"
+       id="text3031"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3033"
+         x="33.129326"
+         y="910.51227"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">contato@vandersonbartteli.com.br</tspan></text>
+    <g
+       clip-path="url(#clipPath)"
+       id="g3196">
+      <g
+         id="g3198">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:10;stroke-opacity:1;filter:url(#filter)"
+           d="m 92.428957,29.138233 81.317283,0"
+           id="path3200"
+           inkscape:connector-curvature="0"
+           transform="translate(0,861.09315)" />
+      </g>
+    </g>
+    <g
+       clip-path="url(#clipPatho)"
+       id="g3202">
+      <g
+         id="g3204">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:10;stroke-opacity:1;filter:url(#filterZ)"
+           d="m 91.923881,39.239758 81.822359,0"
+           id="path3206"
+           inkscape:connector-curvature="0"
+           transform="translate(0,861.09315)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="33.192802"
+       y="936.80194"
+       id="text3031-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3033-7"
+         x="33.192802"
+         y="936.80194"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">vandersonbartteli.com.br</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="33.427666"
+       y="961.49829"
+       id="text3031-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="33.427666"
+         y="961.49829"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans"
+         id="tspan3412">fb.me/vandersonbartelli</tspan></text>
+    <g
+       id="g3591"
+       transform="matrix(0.05509876,0,0,0.05509876,6.8545764,892.80231)"
+       style="fill:#4d4d4d">
+      <path
+         id="path3593"
+         d="m 356.993,330.037 h -214 V 170.483 h 214 v 159.554 z m -12.27,-21.663 V 190.752 l -56.385,56.481 56.385,61.141 z m -84.419,-33.058 c -3.144,3.148 -7.324,4.884 -11.771,4.887 -0.005,0 -0.01,0 -0.015,0 -4.443,0 -8.621,-1.729 -11.764,-4.868 l -15.81,-15.783 -57.187,58.215 h 172.937 l -57.03,-61.843 -19.36,19.392 z m -11.786,-7.383 h 0.003 c 1.171,0 2.272,-0.457 3.099,-1.286 l 83.75,-83.894 H 161.383 l 84.04,83.899 c 0.827,0.827 1.926,1.281 3.095,1.281 z m -93.255,-73.951 v 114.92 l 56.995,-58.02 -56.995,-56.9 z"
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       id="g4535"
+       transform="matrix(0.16211081,0,0,0.16211081,14.467082,875.42917)"
+       style="fill:#4d4d4d">
+      <g
+         id="g4537"
+         style="fill:#4d4d4d">
+        <path
+           id="path4539"
+           d="M 36.2,1 C 16.7,2 1.2,18.2 1.3,37.8 c 0,6 1.5,11.6 4,16.6 L 1.4,73.3 c -0.2,1 0.7,1.9 1.7,1.7 L 21.6,70.6 C 26.4,73 31.7,74.3 37.4,74.4 57.4,74.7 74,58.8 74.7,38.9 75.4,17.5 57.7,0 36.2,1 z m 22.1,57 c -5.4,5.4 -12.6,8.4 -20.3,8.4 -4.5,0 -8.8,-1 -12.8,-3 L 22.6,62.1 11.2,64.8 13.6,53.2 12.3,50.7 C 10.2,46.6 9.2,42.3 9.2,37.7 9.2,30 12.2,22.8 17.6,17.4 23.1,12 30.4,9 38,9 c 7.7,0 14.9,3 20.3,8.4 5.4,5.4 8.4,12.6 8.4,20.3 0,7.6 -3,14.9 -8.4,20.3 z"
+           class="st0"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d" />
+        <path
+           id="path4541"
+           d="m 55.8,45.7 -7.1,-2 c -0.9,-0.3 -1.9,0 -2.6,0.7 l -1.7,1.8 c -0.7,0.7 -1.8,1 -2.8,0.6 C 38.2,45.4 31.2,39.1 29.4,36 28.9,35.1 29,34 29.6,33.1 l 1.5,-2 c 0.6,-0.8 0.7,-1.8 0.3,-2.7 l -3,-6.8 c -0.7,-1.6 -2.8,-2.1 -4.1,-0.9 -2,1.7 -4.3,4.2 -4.6,7.1 -0.5,5 1.6,11.3 9.7,18.8 9.3,8.7 16.8,9.9 21.7,8.7 2.8,-0.7 5,-3.3 6.4,-5.5 0.8,-1.7 0,-3.7 -1.7,-4.1 z"
+           class="st0"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d" />
+      </g>
+    </g>
+    <path
+       id="path4594"
+       d="m 20.628432,926.86639 c -3.431402,0 -6.214063,2.78181 -6.214063,6.21411 0,3.43281 2.782661,6.21499 6.214063,6.21499 3.433271,0 6.214961,-2.78218 6.214961,-6.21499 0,-3.4323 -2.78169,-6.21411 -6.214961,-6.21411 m -0.437422,3.46595 c -0.614099,-0.0383 -1.197369,-0.15695 -1.732038,-0.34202 0.429945,-0.87533 1.032804,-1.58617 1.732038,-2.04988 v 2.3919 z m 0,0.8778 v 1.43248 h -2.417217 c 0.03833,-0.65141 0.1617,-1.27032 0.351486,-1.8405 0.640269,0.22668 1.33574,0.36683 2.065731,0.40802 m 0,2.30834 v 1.41787 c -0.733778,0.0416 -1.431992,0.18364 -2.075101,0.41268 -0.18697,-0.56839 -0.306576,-1.18326 -0.342116,-1.83055 h 2.417217 z m 0,2.29609 v 2.42559 c -0.707584,-0.46884 -1.31513,-1.18953 -1.746094,-2.07692 0.538433,-0.18885 1.126363,-0.30935 1.746094,-0.34867 m 0.875814,0 c 0.619732,0.0393 1.207662,0.15982 1.74607,0.34867 -0.430891,0.88739 -1.039334,1.60917 -1.74607,2.07784 v -2.42651 z m 0,-0.8782 v -1.41786 h 2.417169 c -0.03556,0.64728 -0.155194,1.26216 -0.342092,1.83055 -0.642138,-0.22904 -1.341323,-0.37108 -2.075077,-0.41269 m 0,-2.29375 v -1.43248 c 0.729094,-0.0412 1.425438,-0.18134 2.065755,-0.40802 0.18969,0.57018 0.312112,1.18909 0.350491,1.8405 h -2.416246 z m 0,-2.31028 v -2.3919 c 0.700133,0.46371 1.30207,1.17455 1.732039,2.04891 -0.53467,0.18507 -1.117866,0.30463 -1.732039,0.34299 m 1.523658,-2.21474 c 0.63835,0.25332 1.216934,0.62585 1.707665,1.09124 -0.214037,0.15806 -0.445821,0.30388 -0.692631,0.43366 -0.274799,-0.56919 -0.616842,-1.08272 -1.015034,-1.5249 m -4.939135,1.5249 c -0.246785,-0.12978 -0.47767,-0.2756 -0.691757,-0.43366 0.490707,-0.46539 1.068417,-0.83884 1.706841,-1.09124 -0.397246,0.44218 -0.739361,0.95571 -1.015084,1.5249 m -0.332745,0.8118 c -0.233652,0.67998 -0.378602,1.41716 -0.419773,2.18832 h -1.588885 c 0.08404,-1.03802 0.467304,-1.99433 1.062712,-2.78033 0.290627,0.22098 0.606598,0.42055 0.945946,0.59201 m -0.421521,3.06418 c 0.03923,0.76684 0.182261,1.50166 0.411277,2.17828 -0.337479,0.17289 -0.652528,0.37197 -0.942257,0.59354 -0.59264,-0.7852 -0.972116,-1.73663 -1.056157,-2.77184 h 1.587137 z m 0.74208,2.99335 c 0.271085,0.56645 0.60854,1.07961 1.00115,1.52274 -0.63187,-0.2557 -1.203948,-0.62714 -1.689071,-1.09003 0.212168,-0.15696 0.44116,-0.30322 0.687921,-0.43271 m 5.97944,0 c 0.245863,0.12949 0.475704,0.27575 0.687023,0.43325 -0.484128,0.46235 -1.056255,0.83379 -1.688075,1.08847 0.39256,-0.44211 0.729966,-0.95522 1.001052,-1.52172 m 0.330949,-0.81505 c 0.228943,-0.67661 0.370955,-1.41051 0.411179,-2.17827 h 1.587211 c -0.08419,1.03521 -0.463639,1.98664 -1.056255,2.77183 -0.289753,-0.22161 -0.605651,-0.42072 -0.942135,-0.59356 m 0.409335,-3.05416 c -0.04112,-0.77114 -0.185951,-1.50834 -0.418705,-2.18832 0.338353,-0.17146 0.654299,-0.37105 0.944004,-0.59204 0.596426,0.786 0.978743,1.74139 1.063756,2.78033 h -1.589055 z"
+       inkscape:connector-curvature="0"
+       style="fill:#4d4d4d" />
+    <g
+       id="Flat_copy"
+       transform="matrix(0.39085031,0,0,0.39085031,14.375276,950.20212)"
+       style="fill:#4d4d4d">
+      <path
+         id="path4647"
+         d="M 11.848,32 H 18.46 V 15.998 h 4.411 l 0.584,-5.514 H 18.46 l 0.007,-2.761 c 0,-1.437 0.137,-2.209 2.2,-2.209 h 2.757 V 0 h -4.412 c -5.299,0 -7.164,2.675 -7.164,7.174 v 3.311 H 8.545 V 16 h 3.303 v 16 z"
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       id="g3520"
+       transform="matrix(0.56889311,0,0,0.56889311,167.69584,966.07953)"
+       style="fill:#666666;display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 124.90791,42.933044 103.82994,127.5884 M 142.40038,26.070509 124.81718,43.080941 79.875789,31.076752 M 97.201226,13.758185 120.20582,110.96063 M 97.071252,13.607156 142.89293,25.749904 120.2112,111.20741 103.48628,128.16115 79.429885,31.133967 z"
+         style="fill:#666666;stroke:#ffffff;stroke-width:1.29603338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4310-9" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 169.07655,103.89907 -16.36627,4.11032 m -0.37367,-42.597193 40.20573,-10.910845 m 3.88623,-0.873517 0,20.503233 m -4.01609,-20.080486 0,20.925973 m -0.42276,-44.38843 -23.02879,6.170552 M 152.29829,64.93922 168.87533,81.815188 212.40467,70.15154 m -16.18747,27.01923 16.40786,17.83458 m -43.54333,-11.05092 -0.10571,21.64587 m -17.312,-106.148172 17.30041,17.300416 0.1057,67.182176 27.4069,-7.160599 -0.0396,-22.357736 -4.09159,1.113364 -18.21713,-16.194832 0,-45.762365 m 0.0296,-0.248433 -22.30025,6.279637 0.52312,88.223644 17.05579,18.55023 43.12441,-11.55498 0,-45.004025 -16.42801,-16.428014 -3.79698,1.017392 0,-23.270736 z m -5.20724,23.05968 0,45.464259 m 0,-0.66858 0,44.559522 m 27.54598,-72.239233 0,44.127051"
+         style="fill:#666666;stroke:#ffffff;stroke-width:1.19570911;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4366-1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="v2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="33.849136"
+       y="100.23102"
+       id="text3064-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3066-6"
+         x="33.849136"
+         y="100.23102"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">+55 27 99863-1675‬</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="34.337906"
+       y="124.42274"
+       id="text3031-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3033-5"
+         x="34.337906"
+         y="124.42274"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">contato@vandersonbartteli.com.br</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="34.401382"
+       y="150.71242"
+       id="text3031-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3033-7-5"
+         x="34.401382"
+         y="150.71242"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">vandersonbartteli.com.br</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="34.636246"
+       y="175.40875"
+       id="text3031-6-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="34.636246"
+         y="175.40875"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans"
+         id="tspan3412-2">fb.me/vandersonbartelli</tspan></text>
+    <g
+       id="g3591-9"
+       transform="matrix(0.05509876,0,0,0.05509876,8.0631635,106.71277)"
+       style="fill:#4d4d4d">
+      <path
+         id="path3593-1"
+         d="m 356.993,330.037 h -214 V 170.483 h 214 v 159.554 z m -12.27,-21.663 V 190.752 l -56.385,56.481 56.385,61.141 z m -84.419,-33.058 c -3.144,3.148 -7.324,4.884 -11.771,4.887 -0.005,0 -0.01,0 -0.015,0 -4.443,0 -8.621,-1.729 -11.764,-4.868 l -15.81,-15.783 -57.187,58.215 h 172.937 l -57.03,-61.843 -19.36,19.392 z m -11.786,-7.383 h 0.003 c 1.171,0 2.272,-0.457 3.099,-1.286 l 83.75,-83.894 H 161.383 l 84.04,83.899 c 0.827,0.827 1.926,1.281 3.095,1.281 z m -93.255,-73.951 v 114.92 l 56.995,-58.02 -56.995,-56.9 z"
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       id="g4535-2"
+       transform="matrix(0.16211081,0,0,0.16211081,15.675664,89.339632)"
+       style="fill:#4d4d4d">
+      <g
+         id="g4537-7"
+         style="fill:#4d4d4d">
+        <path
+           id="path4539-0"
+           d="M 36.2,1 C 16.7,2 1.2,18.2 1.3,37.8 c 0,6 1.5,11.6 4,16.6 L 1.4,73.3 c -0.2,1 0.7,1.9 1.7,1.7 L 21.6,70.6 C 26.4,73 31.7,74.3 37.4,74.4 57.4,74.7 74,58.8 74.7,38.9 75.4,17.5 57.7,0 36.2,1 z m 22.1,57 c -5.4,5.4 -12.6,8.4 -20.3,8.4 -4.5,0 -8.8,-1 -12.8,-3 L 22.6,62.1 11.2,64.8 13.6,53.2 12.3,50.7 C 10.2,46.6 9.2,42.3 9.2,37.7 9.2,30 12.2,22.8 17.6,17.4 23.1,12 30.4,9 38,9 c 7.7,0 14.9,3 20.3,8.4 5.4,5.4 8.4,12.6 8.4,20.3 0,7.6 -3,14.9 -8.4,20.3 z"
+           class="st0"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d" />
+        <path
+           id="path4541-9"
+           d="m 55.8,45.7 -7.1,-2 c -0.9,-0.3 -1.9,0 -2.6,0.7 l -1.7,1.8 c -0.7,0.7 -1.8,1 -2.8,0.6 C 38.2,45.4 31.2,39.1 29.4,36 28.9,35.1 29,34 29.6,33.1 l 1.5,-2 c 0.6,-0.8 0.7,-1.8 0.3,-2.7 l -3,-6.8 c -0.7,-1.6 -2.8,-2.1 -4.1,-0.9 -2,1.7 -4.3,4.2 -4.6,7.1 -0.5,5 1.6,11.3 9.7,18.8 9.3,8.7 16.8,9.9 21.7,8.7 2.8,-0.7 5,-3.3 6.4,-5.5 0.8,-1.7 0,-3.7 -1.7,-4.1 z"
+           class="st0"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d" />
+      </g>
+    </g>
+    <path
+       id="path4594-3"
+       d="m 21.837014,140.77685 c -3.4314,0 -6.21406,2.78181 -6.21406,6.21411 0,3.43281 2.78266,6.21499 6.21406,6.21499 3.43328,0 6.21497,-2.78218 6.21497,-6.21499 0,-3.4323 -2.78169,-6.21411 -6.21497,-6.21411 m -0.43742,3.46595 c -0.6141,-0.0383 -1.19737,-0.15695 -1.73204,-0.34202 0.42995,-0.87533 1.03281,-1.58617 1.73204,-2.04988 v 2.3919 z m 0,0.8778 v 1.43248 h -2.41721 c 0.0383,-0.65141 0.1617,-1.27032 0.35148,-1.8405 0.64027,0.22668 1.33574,0.36683 2.06573,0.40802 m 0,2.30834 v 1.41787 c -0.73378,0.0416 -1.43199,0.18364 -2.0751,0.41268 -0.18697,-0.56839 -0.30657,-1.18326 -0.34211,-1.83055 h 2.41721 z m 0,2.29609 v 2.42559 c -0.70758,-0.46884 -1.31513,-1.18953 -1.74609,-2.07692 0.53843,-0.18885 1.12636,-0.30935 1.74609,-0.34867 m 0.87582,0 c 0.61973,0.0393 1.20766,0.15982 1.74607,0.34867 -0.43089,0.88739 -1.03934,1.60917 -1.74607,2.07784 v -2.42651 z m 0,-0.8782 v -1.41786 h 2.41717 c -0.0356,0.64728 -0.1552,1.26216 -0.3421,1.83055 -0.64213,-0.22904 -1.34132,-0.37108 -2.07507,-0.41269 m 0,-2.29375 v -1.43248 c 0.72909,-0.0412 1.42543,-0.18134 2.06575,-0.40802 0.18969,0.57018 0.31211,1.18909 0.35049,1.8405 h -2.41624 z m 0,-2.31028 v -2.3919 c 0.70013,0.46371 1.30207,1.17455 1.73204,2.04891 -0.53467,0.18507 -1.11787,0.30463 -1.73204,0.34299 m 1.52365,-2.21474 c 0.63835,0.25332 1.21694,0.62585 1.70767,1.09124 -0.21404,0.15806 -0.44582,0.30388 -0.69263,0.43366 -0.2748,-0.56919 -0.61684,-1.08272 -1.01504,-1.5249 m -4.93913,1.5249 c -0.24679,-0.12978 -0.47767,-0.2756 -0.69176,-0.43366 0.49071,-0.46539 1.06842,-0.83884 1.70684,-1.09124 -0.39724,0.44218 -0.73936,0.95571 -1.01508,1.5249 m -0.33275,0.8118 c -0.23365,0.67998 -0.3786,1.41716 -0.41977,2.18832 h -1.58888 c 0.084,-1.03802 0.4673,-1.99433 1.06271,-2.78033 0.29063,0.22098 0.6066,0.42055 0.94594,0.59201 m -0.42152,3.06418 c 0.0392,0.76684 0.18226,1.50166 0.41128,2.17828 -0.33748,0.17289 -0.65253,0.37197 -0.94226,0.59354 -0.59264,-0.7852 -0.97211,-1.73663 -1.05615,-2.77184 h 1.58713 z m 0.74208,2.99335 c 0.27109,0.56645 0.60854,1.07961 1.00115,1.52274 -0.63187,-0.2557 -1.20394,-0.62714 -1.68907,-1.09003 0.21217,-0.15696 0.44116,-0.30322 0.68792,-0.43271 m 5.97944,0 c 0.24587,0.12949 0.47571,0.27575 0.68703,0.43325 -0.48413,0.46235 -1.05626,0.83379 -1.68808,1.08847 0.39256,-0.44211 0.72997,-0.95522 1.00105,-1.52172 m 0.33095,-0.81505 c 0.22895,-0.67661 0.37096,-1.41051 0.41118,-2.17827 h 1.58721 c -0.0842,1.03521 -0.46364,1.98664 -1.05625,2.77183 -0.28976,-0.22161 -0.60565,-0.42072 -0.94214,-0.59356 m 0.40934,-3.05416 c -0.0411,-0.77114 -0.18595,-1.50834 -0.41871,-2.18832 0.33836,-0.17146 0.6543,-0.37105 0.94401,-0.59204 0.59642,0.786 0.97874,1.74139 1.06375,2.78033 h -1.58905 z"
+       inkscape:connector-curvature="0"
+       style="fill:#4d4d4d" />
+    <g
+       id="Flat_copy-6"
+       transform="matrix(0.39085031,0,0,0.39085031,15.583864,164.11258)"
+       style="fill:#4d4d4d">
+      <path
+         id="path4647-0"
+         d="M 11.848,32 H 18.46 V 15.998 h 4.411 l 0.584,-5.514 H 18.46 l 0.007,-2.761 c 0,-1.437 0.137,-2.209 2.2,-2.209 h 2.757 V 0 h -4.412 c -5.299,0 -7.164,2.675 -7.164,7.174 v 3.311 H 8.545 V 16 h 3.303 v 16 z"
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       id="g3520-6"
+       transform="matrix(0.56889311,0,0,0.56889311,163.49021,7.98999)"
+       style="fill:#666666;display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 124.90791,42.933044 103.82994,127.5884 M 142.40038,26.070509 124.81718,43.080941 79.875789,31.076752 M 97.201226,13.758185 120.20582,110.96063 M 97.071252,13.607156 142.89293,25.749904 120.2112,111.20741 103.48628,128.16115 79.429885,31.133967 z"
+         style="fill:#666666;stroke:#ffffff;stroke-width:1.29603338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4310-9-2" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 169.07655,103.89907 -16.36627,4.11032 m -0.37367,-42.597193 40.20573,-10.910845 m 3.88623,-0.873517 0,20.503233 m -4.01609,-20.080486 0,20.925973 m -0.42276,-44.38843 -23.02879,6.170552 M 152.29829,64.93922 168.87533,81.815188 212.40467,70.15154 m -16.18747,27.01923 16.40786,17.83458 m -43.54333,-11.05092 -0.10571,21.64587 m -17.312,-106.148172 17.30041,17.300416 0.1057,67.182176 27.4069,-7.160599 -0.0396,-22.357736 -4.09159,1.113364 -18.21713,-16.194832 0,-45.762365 m 0.0296,-0.248433 -22.30025,6.279637 0.52312,88.223644 17.05579,18.55023 43.12441,-11.55498 0,-45.004025 -16.42801,-16.428014 -3.79698,1.017392 0,-23.270736 z m -5.20724,23.05968 0,45.464259 m 0,-0.66858 0,44.559522 m 27.54598,-72.239233 0,44.127051"
+         style="fill:#666666;stroke:#ffffff;stroke-width:1.19570911;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4366-1-6" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="v3">
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="35.22831"
+       y="100.85635"
+       id="text3064-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3066-6-2"
+         x="35.22831"
+         y="100.85635"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">+55 27 99863-1675‬</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="35.717079"
+       y="125.04802"
+       id="text3031-7-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3033-5-2"
+         x="35.717079"
+         y="125.04802"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">contato@vandersonbartteli.com.br</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="35.780556"
+       y="151.33772"
+       id="text3031-6-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3033-7-5-7"
+         x="35.780556"
+         y="151.33772"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans">vandersonbartteli.com.br</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0.2px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="36.015419"
+       y="176.03406"
+       id="text3031-6-7-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="36.015419"
+         y="176.03406"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:0.2px;fill:#666666;font-family:Sans;-inkscape-font-specification:Sans"
+         id="tspan3412-2-9">fb.me/vandersonbartelli</tspan></text>
+    <g
+       id="g3591-9-2"
+       transform="matrix(0.05509876,0,0,0.05509876,9.4423325,107.33805)"
+       style="fill:#4d4d4d;display:inline">
+      <path
+         id="path3593-1-2"
+         d="m 356.993,330.037 h -214 V 170.483 h 214 v 159.554 z m -12.27,-21.663 V 190.752 l -56.385,56.481 56.385,61.141 z m -84.419,-33.058 c -3.144,3.148 -7.324,4.884 -11.771,4.887 -0.005,0 -0.01,0 -0.015,0 -4.443,0 -8.621,-1.729 -11.764,-4.868 l -15.81,-15.783 -57.187,58.215 h 172.937 l -57.03,-61.843 -19.36,19.392 z m -11.786,-7.383 h 0.003 c 1.171,0 2.272,-0.457 3.099,-1.286 l 83.75,-83.894 H 161.383 l 84.04,83.899 c 0.827,0.827 1.926,1.281 3.095,1.281 z m -93.255,-73.951 v 114.92 l 56.995,-58.02 -56.995,-56.9 z"
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       id="g4535-2-8"
+       transform="matrix(0.16211081,0,0,0.16211081,17.054834,89.964942)"
+       style="fill:#4d4d4d;display:inline">
+      <g
+         id="g4537-7-9"
+         style="fill:#4d4d4d">
+        <path
+           id="path4539-0-7"
+           d="M 36.2,1 C 16.7,2 1.2,18.2 1.3,37.8 c 0,6 1.5,11.6 4,16.6 L 1.4,73.3 c -0.2,1 0.7,1.9 1.7,1.7 L 21.6,70.6 C 26.4,73 31.7,74.3 37.4,74.4 57.4,74.7 74,58.8 74.7,38.9 75.4,17.5 57.7,0 36.2,1 z m 22.1,57 c -5.4,5.4 -12.6,8.4 -20.3,8.4 -4.5,0 -8.8,-1 -12.8,-3 L 22.6,62.1 11.2,64.8 13.6,53.2 12.3,50.7 C 10.2,46.6 9.2,42.3 9.2,37.7 9.2,30 12.2,22.8 17.6,17.4 23.1,12 30.4,9 38,9 c 7.7,0 14.9,3 20.3,8.4 5.4,5.4 8.4,12.6 8.4,20.3 0,7.6 -3,14.9 -8.4,20.3 z"
+           class="st0"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d" />
+        <path
+           id="path4541-9-3"
+           d="m 55.8,45.7 -7.1,-2 c -0.9,-0.3 -1.9,0 -2.6,0.7 l -1.7,1.8 c -0.7,0.7 -1.8,1 -2.8,0.6 C 38.2,45.4 31.2,39.1 29.4,36 28.9,35.1 29,34 29.6,33.1 l 1.5,-2 c 0.6,-0.8 0.7,-1.8 0.3,-2.7 l -3,-6.8 c -0.7,-1.6 -2.8,-2.1 -4.1,-0.9 -2,1.7 -4.3,4.2 -4.6,7.1 -0.5,5 1.6,11.3 9.7,18.8 9.3,8.7 16.8,9.9 21.7,8.7 2.8,-0.7 5,-3.3 6.4,-5.5 0.8,-1.7 0,-3.7 -1.7,-4.1 z"
+           class="st0"
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d" />
+      </g>
+    </g>
+    <path
+       id="path4594-3-6"
+       d="m 23.216185,141.40214 c -3.4314,0 -6.214061,2.78181 -6.214061,6.21411 0,3.43281 2.782661,6.21499 6.214061,6.21499 3.43328,0 6.21497,-2.78218 6.21497,-6.21499 0,-3.4323 -2.78169,-6.21411 -6.21497,-6.21411 m -0.43742,3.46595 c -0.6141,-0.0383 -1.19737,-0.15695 -1.73204,-0.34202 0.42995,-0.87533 1.03281,-1.58617 1.73204,-2.04988 v 2.3919 z m 0,0.8778 v 1.43248 h -2.41721 c 0.0383,-0.65141 0.1617,-1.27032 0.35148,-1.8405 0.64027,0.22668 1.33574,0.36683 2.06573,0.40802 m 0,2.30834 v 1.41787 c -0.73378,0.0416 -1.43199,0.18364 -2.0751,0.41268 -0.18697,-0.56839 -0.30657,-1.18326 -0.34211,-1.83055 h 2.41721 z m 0,2.29609 v 2.42559 c -0.70758,-0.46884 -1.31513,-1.18953 -1.74609,-2.07692 0.53843,-0.18885 1.12636,-0.30935 1.74609,-0.34867 m 0.87582,0 c 0.61973,0.0393 1.20766,0.15982 1.74607,0.34867 -0.43089,0.88739 -1.03934,1.60917 -1.74607,2.07784 v -2.42651 z m 0,-0.8782 v -1.41786 h 2.41717 c -0.0356,0.64728 -0.1552,1.26216 -0.3421,1.83055 -0.64213,-0.22904 -1.34132,-0.37108 -2.07507,-0.41269 m 0,-2.29375 v -1.43248 c 0.72909,-0.0412 1.42543,-0.18134 2.06575,-0.40802 0.18969,0.57018 0.31211,1.18909 0.35049,1.8405 h -2.41624 z m 0,-2.31028 v -2.3919 c 0.70013,0.46371 1.30207,1.17455 1.73204,2.04891 -0.53467,0.18507 -1.11787,0.30463 -1.73204,0.34299 m 1.52365,-2.21474 c 0.63835,0.25332 1.21694,0.62585 1.70767,1.09124 -0.21404,0.15806 -0.44582,0.30388 -0.69263,0.43366 -0.2748,-0.56919 -0.61684,-1.08272 -1.01504,-1.5249 m -4.93913,1.5249 c -0.24679,-0.12978 -0.47767,-0.2756 -0.69176,-0.43366 0.49071,-0.46539 1.06842,-0.83884 1.70684,-1.09124 -0.39724,0.44218 -0.73936,0.95571 -1.01508,1.5249 m -0.33275,0.8118 c -0.23365,0.67998 -0.3786,1.41716 -0.41977,2.18832 h -1.58888 c 0.084,-1.03802 0.4673,-1.99433 1.06271,-2.78033 0.29063,0.22098 0.6066,0.42055 0.94594,0.59201 m -0.42152,3.06418 c 0.0392,0.76684 0.18226,1.50166 0.41128,2.17828 -0.33748,0.17289 -0.65253,0.37197 -0.94226,0.59354 -0.59264,-0.7852 -0.97211,-1.73663 -1.05615,-2.77184 h 1.58713 z m 0.74208,2.99335 c 0.27109,0.56645 0.60854,1.07961 1.00115,1.52274 -0.63187,-0.2557 -1.20394,-0.62714 -1.68907,-1.09003 0.21217,-0.15696 0.44116,-0.30322 0.68792,-0.43271 m 5.97944,0 c 0.24587,0.12949 0.47571,0.27575 0.68703,0.43325 -0.48413,0.46235 -1.05626,0.83379 -1.68808,1.08847 0.39256,-0.44211 0.72997,-0.95522 1.00105,-1.52172 m 0.33095,-0.81505 c 0.22895,-0.67661 0.37096,-1.41051 0.41118,-2.17827 h 1.58721 c -0.0842,1.03521 -0.46364,1.98664 -1.05625,2.77183 -0.28976,-0.22161 -0.60565,-0.42072 -0.94214,-0.59356 m 0.40934,-3.05416 c -0.0411,-0.77114 -0.18595,-1.50834 -0.41871,-2.18832 0.33836,-0.17146 0.6543,-0.37105 0.94401,-0.59204 0.59642,0.786 0.97874,1.74139 1.06375,2.78033 h -1.58905 z"
+       inkscape:connector-curvature="0"
+       style="fill:#4d4d4d;display:inline" />
+    <g
+       id="Flat_copy-6-1"
+       transform="matrix(0.39085031,0,0,0.39085031,16.963034,164.73787)"
+       style="fill:#4d4d4d;display:inline">
+      <path
+         id="path4647-0-2"
+         d="M 11.848,32 H 18.46 V 15.998 h 4.411 l 0.584,-5.514 H 18.46 l 0.007,-2.761 c 0,-1.437 0.137,-2.209 2.2,-2.209 h 2.757 V 0 h -4.412 c -5.299,0 -7.164,2.675 -7.164,7.174 v 3.311 H 8.545 V 16 h 3.303 v 16 z"
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d" />
+    </g>
+  </g>
+  <style
+     id="style4533"
+     type="text/css">
+	.st0{fill:#2A445D;}
+	.st1{fill:#37546B;}
+	.st2{fill:#213B51;}
+</style>
+</svg>
